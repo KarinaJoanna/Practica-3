@@ -64,4 +64,4 @@ chochoyotes y cocina por 10 minutos o hasta que todo esté cocido.
 
 Los resultados de los 2 ejercicios se muestran en la carpeta de resultados:
 
-[(https://github.com/KarinaJoanna/Actividad-6/tree/main/resultados)]
+[(https://github.com/KarinaJoanna/Practica-3/tree/main/resultados)]
